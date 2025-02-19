@@ -1,0 +1,28 @@
+h2 {
+    background-color: chocolate;
+    color: blueviolet;
+}
+
+.minha_h2 {
+    background-color: cadetblue;
+    color: black;
+    font-size: 10px;
+}
+
+h2 {
+    background-color:blue;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.minha_h2 {
+   background-color: aquamarine;
+}
+
+#seletor_p1 {
+    background-color: brown;
+}
+
+.deixar_verde {
+    background-color: green;
+}
