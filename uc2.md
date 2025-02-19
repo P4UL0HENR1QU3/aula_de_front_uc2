@@ -35,3 +35,9 @@
 
 3. .class => Você cria um "apelido" na tag do elemento e ese "apelido" pode ser utilizado quantas vezes necessário,
 inclusive em outras tags diferentes.
+
+## SISTEMA DE CORES
+1. `nome da cor` => Especifica o valor da cor através do nome dela e inglês.
+2. `hexadecimal` => Especifica o valor da cor através de uma sequência alfa-numpérica.
+3. `rgb` => Especifica a cor através da intensidade do red [vermelho], green[verde] e blue[azul].
+4. `rgba` => São os mesmos valores do rgb, porém com o valor do alpha[opacidade].
