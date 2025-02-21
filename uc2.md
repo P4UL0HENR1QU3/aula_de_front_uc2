@@ -41,3 +41,27 @@ inclusive em outras tags diferentes.
 2. `hexadecimal` => Especifica o valor da cor através de uma sequência alfa-numpérica.
 3. `rgb` => Especifica a cor através da intensidade do red [vermelho], green[verde] e blue[azul].
 4. `rgba` => São os mesmos valores do rgb, porém com o valor do alpha[opacidade].
+
+# AULA 04
+1. <img> => Tag responsável por inserir uma imagem interna ou externa.
+- src -> É onde é inserido o caminho da imagem;
+- alt -> é o texto alternativo que será exibido caso a imagem "quebre" e por questões de acessibilidade.
+Ex:<img src="caminho_da_imagem" alt="Descrição da imagem">
+
+2. Listas 
+`<ul></ul>` -> Informa que existirá itens e a posição desses itens não importa. `--Lista não ordenada.--`
+`<ol></ol>` -> Informa que existirá itens e a posição desses itens importa. `--Lista ordenada--`
+`<li></li> `-> É cada item da lista.
+
+3. Tag de Link
+<a></a> -> É utilizada para gerar um texto clicável. --Link--
+- href -> É uma propriedade onde você irá informar qual o caminho que o link irá enviar o usuário.
+Ex: <a href="caminho_do_link">Sobre</a>
+
+## CSS
+1. font-family: Arial, Helvetica, sans-serif; -> Propriedade que altera o tipo de fonte utilizado no elemento.
+2. `padding` -> É o espaçamento interno de um conteúdo até a borda.
+3. `margin` -> É o espaçamento externo do elemento em relação a outro elemento
+4. `border` -> 
+
+
